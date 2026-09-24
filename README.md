@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Deepak S
 
-### Artificial Intelligence & Data Science Student | Software Developer | AI/ML Enthusiast
+### Artificial Intelligence & Data Science Student | Software Developer | Data Analysist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+%7C+Always+Building" />
 
