@@ -181,38 +181,7 @@ candidate information and vote submission using a structured database.
 
 ---
 
-## 🚦 Real-Time Traffic Congestion Analysis
 
-### Data-Driven Traffic Monitoring System
-
-A data-driven project focused on identifying traffic congestion
-hotspots and analyzing traffic patterns based on location and time.
-
-**Technologies:**
-
-`Python` `Pandas` `Machine Learning` `Data Visualization` `APIs`
-
-**Highlights**
-
-- Traffic data analysis
-- Congestion hotspot identification
-- Time-based analysis
-- Data visualization
-
----
-
-## 🩺 Glucose Monitor
-
-### Web-Based Health Monitoring Application
-
-A web-based application designed to present and manage glucose-related
-information through a simple and accessible interface.
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 [View Project](https://github.com/deepaksaravanan2005/glucose-monitor)
 
 ---
 
